@@ -1,0 +1,17 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Archivos de entorno
+.env
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
