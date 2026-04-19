@@ -7,7 +7,7 @@ No requiere API key.
 
 import sys
 import argparse
-import requests
+import requests # pyright: ignore[reportMissingModuleSource]
 
 def get_coordinates(city: str) -> tuple:
     """
